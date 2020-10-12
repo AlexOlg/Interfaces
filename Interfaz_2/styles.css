@@ -1,0 +1,54 @@
+html{
+    
+    background: url("backgrond.jpg") no-repeat;
+    width: auto;
+}
+
+body{
+    background-color: transparent;
+}
+
+#login{
+    margin: 230px auto 0;
+    padding: 10px;
+    color: white;
+    height: auto;
+    max-width: 800px;
+    background-color: #3c3838;
+    background-size: cover;
+}
+
+#login .heading{
+	text-align: center;
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
+#login .form-group{
+    float: left;
+    width: 28%;
+    margin-left: 40px;
+}
+
+#login .form-control{
+    padding: 15px 25px;
+    height: auto;
+}
+
+#login .form-group-btn{
+    width: 15%;
+    margin-left: 70px;
+}
+
+#login .btn{
+    background-color: rgb(141, 221, 231);
+    border: rgb(141, 221, 231);
+    padding: 13px 32px;
+    color: rgb(44, 38, 38);
+}
+
+#login .checkbox{
+    text-align:  center;
+    margin: 15px 0 50px 40px;
+}
+
